@@ -1,0 +1,7 @@
+
+{
+  "Nombre": "Juan",
+  "Apellido": "Perez",
+  "Profesion": "Ingeniero",
+  "direccion": ["direccion1","direccion2", "direccion3"]
+}
